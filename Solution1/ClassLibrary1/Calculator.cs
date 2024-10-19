@@ -6,7 +6,6 @@
         {
 
         }
-
         public double Add(double num1, double num2) => num1 + num2;
 
         public double substract(double num1, double num2) => num1 - num2;
